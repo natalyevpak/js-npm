@@ -1,0 +1,19 @@
+{
+  "name": "js_npm_evna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalyevpak/js-npm.git"
+  },
+  "author": "Natalia Evpak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalyevpak/js-npm/issues"
+  },
+  "homepage": "https://github.com/natalyevpak/js-npm#readme"
+}
